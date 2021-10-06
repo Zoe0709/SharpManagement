@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530192811083",
+    "firebase_url": "https://needledisposal-f1627.firebaseio.com",
+    "project_id": "needledisposal-f1627",
+    "storage_bucket": "needledisposal-f1627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530192811083:android:c0cec86271e17f2f6779ce",
+        "android_client_info": {
+          "package_name": "com.example.deltahacksvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530192811083-b1hrrsb9lj6k5ors57va2ftd8kj27n44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deltahacksvi",
+            "certificate_hash": "67a32674f4abead8cbe3ab85820eebd2ba8da93a"
+          }
+        },
+        {
+          "client_id": "530192811083-7sfpnoak6vrqlu59cg677q7d7gd667dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYa-9zh8YKQZ25b__XrpjBpzN1HgYi8zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530192811083-7sfpnoak6vrqlu59cg677q7d7gd667dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
