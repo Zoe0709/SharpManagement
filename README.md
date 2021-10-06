@@ -30,7 +30,7 @@ This application is an Android App developed with Java in Android Studio for fro
 2. Android Studio
 
 ## How to run this project:
-1. git clone the repo at https://github.com/JiwooL0920/DeltaHacks-VI-2020.git 
+1. git clone this repo
 2. Import project to Android Studio Run emulator
 
 ## Conclusion:
